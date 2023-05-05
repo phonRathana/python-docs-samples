@@ -34,7 +34,7 @@
 /media_cdn/**/*                        @justin-mp @GoogleCloudPlatform/dee-infra @GoogleCloudPlatform/python-samples-reviewers
 /privateca/**/*                        @GoogleCloudPlatform/dee-infra @GoogleCloudPlatform/python-samples-reviewers
 /recaptcha_enterprise/**/*             @GoogleCloudPlatform/dee-infra @GoogleCloudPlatform/python-samples-reviewers
-/recaptcha_enterprise/demosite/*       @GoogleCloudPlatform/dee-infra @GoogleCloudPlatform/recaptcha-customer-obsession-reviewers @GoogleCloudPlatform/python-samples-reviewers
+/recaptcha_enterprise/demosite/**/*    @GoogleCloudPlatform/dee-infra @GoogleCloudPlatform/recaptcha-customer-obsession-reviewers @GoogleCloudPlatform/python-samples-reviewers
 /secretmanager/**/*                    @GoogleCloudPlatform/dee-infra @GoogleCloudPlatform/python-samples-reviewers
 /securitycenter/**/*                   @GoogleCloudPlatform/dee-infra @GoogleCloudPlatform/python-samples-reviewers
 /webrisk/**/*                          @GoogleCloudPlatform/dee-infra @GoogleCloudPlatform/python-samples-reviewers
@@ -57,6 +57,7 @@
 /dataproc/**/*                         @GoogleCloudPlatform/dee-data-ai @GoogleCloudPlatform/python-samples-reviewers
 /dialogflow/**/*                       @GoogleCloudPlatform/dee-data-ai @GoogleCloudPlatform/python-samples-reviewers
 /dialogflow-cx/**/*                    @GoogleCloudPlatform/dee-data-ai @GoogleCloudPlatform/python-samples-reviewers
+/discoveryengine/**/*                  @GoogleCloudPlatform/dee-data-ai @GoogleCloudPlatform/python-samples-reviewers
 /documentai/**/*                       @GoogleCloudPlatform/dee-data-ai @GoogleCloudPlatform/python-samples-reviewers
 /enterpriseknowledgegraph/**/*         @GoogleCloudPlatform/dee-data-ai @GoogleCloudPlatform/python-samples-reviewers
 /jobs/**/*                             @GoogleCloudPlatform/dee-data-ai @GoogleCloudPlatform/python-samples-reviewers
